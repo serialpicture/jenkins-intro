@@ -10,3 +10,6 @@
    python3 scripts/data_summary.py
    ```
 4. Run the job and check output.
+
+## Reflection:
+- Is the job executed well? Are the data correct? 
