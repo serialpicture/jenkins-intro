@@ -9,11 +9,12 @@ These exercises are designed to be used with Jenkins in a local environment or G
 ## Exercise List
 
 - Exercise 1: Hello Jenkins
-- Exercise 2: Simple Pipeline
-- Exercise 3: Simulate and Fix a Job Failure
-- Exercise 4: Build History and Badges
-- Exercise 5: Git Integration
-- Exercise 6: Run Python Data Script
-- Exercise 7: Archive CSV Output
-- Exercise 8: Execute and Log Notebook
-- Exercise 9: Scheduled Data Pull from API
+- Exercise 2: Environment variables
+- Exercise 3: Simple Pipeline
+- Exercise 4: Simulate and Fix a Job Failure
+- Exercise 5: Build History and Badges
+- Exercise 6: Git Integration
+- Exercise 7: Run Python Data Script
+- Exercise 8: Archive CSV Output
+- Exercise 9: Execute and Log Notebook
+- Exercise 10: Scheduled Data Pull from API

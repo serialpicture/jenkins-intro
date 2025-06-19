@@ -1,4 +1,4 @@
-# 🧪 Exercise 4: Build History and Badges
+# 🧪 Exercise 5: Build History and Badges
 
 **Goal:** Explore Jenkins' job history and embeddable build status.
 

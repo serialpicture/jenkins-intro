@@ -1,4 +1,4 @@
-# 🧪 Exercise 5: Git Repository Integration
+# 🧪 Exercise 6: Git Repository Integration
 
 **Goal:** Pull source code from a Git repository and execute a basic job.
 

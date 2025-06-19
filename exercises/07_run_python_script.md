@@ -1,4 +1,4 @@
-# 🧪 Exercise 6: Run a Python Data Script
+# 🧪 Exercise 7: Run a Python Data Script
 
 **Goal:** Run a basic Python script using Jenkins.
 

@@ -1,4 +1,4 @@
-# 🧪 Exercise 2: Simple Pipeline
+# 🧪 Exercise 4: Simple Pipeline
 
 **Goal:** Create a basic Jenkins Pipeline job to learn about stages and steps.
 

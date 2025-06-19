@@ -1,4 +1,4 @@
-# 🧪 Exercise 7: Generate and Archive CSV Output
+# 🧪 Exercise 8: Generate and Archive CSV Output
 
 **Goal:** Use Jenkins to run a script that creates a CSV file and archives it.
 
